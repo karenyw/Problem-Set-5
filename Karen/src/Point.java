@@ -6,6 +6,7 @@ public class Point {
         x = 0;
         y = 0;
     }
+
     // Assign int x and y as instance variables
     public Point (int x, int y){
         this.x = x;
